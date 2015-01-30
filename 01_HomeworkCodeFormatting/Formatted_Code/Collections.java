@@ -78,7 +78,7 @@ public class Collections {
 			}
 		}
 
-        return -(low + 1);  // key not found
+        return -(low + 1); // key not found
     }
 
     private static <T> int iteratorBinarySearch(List<? extends Comparable<? super T>> list, T key) {
@@ -99,7 +99,7 @@ public class Collections {
 					return mid; // key found
 				}
 				
-				return -(low + 1);  // key not found
+				return -(low + 1); // key not found
 			}
 		}
 	}
