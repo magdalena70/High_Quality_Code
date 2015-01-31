@@ -24,7 +24,7 @@ public class Collections {
     private static final int COPY_THRESHOLD = 10;
     private static final int REPLACEALL_THRESHOLD = 11; 
 	private static final int INDEXOFSUBLIST_THRESHOLD = 35;
-
+	
 	// Suppresses default constructor, ensuring non-instantiability.
     private Collections() {
     }
