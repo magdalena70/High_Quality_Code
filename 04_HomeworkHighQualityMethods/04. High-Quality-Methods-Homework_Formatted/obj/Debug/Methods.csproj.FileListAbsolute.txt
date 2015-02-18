@@ -1,0 +1,7 @@
+C:\Users\acer\Documents\GitHub\High_Quality_Code\07. High-Quality-Methods-Homework\bin\Debug\Methods.exe
+C:\Users\acer\Documents\GitHub\High_Quality_Code\07. High-Quality-Methods-Homework\bin\Debug\Methods.pdb
+C:\Users\acer\Documents\GitHub\High_Quality_Code\07. High-Quality-Methods-Homework\obj\Debug\Methods.csprojResolveAssemblyReference.cache
+C:\Users\acer\Documents\GitHub\High_Quality_Code\07. High-Quality-Methods-Homework\obj\Debug\Methods.exe
+C:\Users\acer\Documents\GitHub\High_Quality_Code\07. High-Quality-Methods-Homework\obj\Debug\Methods.pdb
+C:\Users\acer\Documents\GitHub\High_Quality_Code\04_HomeworkHighQualityMethods\04. High-Quality-Methods-Homework_Formatted\obj\Debug\Methods.exe
+C:\Users\acer\Documents\GitHub\High_Quality_Code\04_HomeworkHighQualityMethods\04. High-Quality-Methods-Homework_Formatted\obj\Debug\Methods.pdb
