@@ -25,17 +25,20 @@ namespace CustomDataStruct.Tests.CustomStack.Tests
         {
             customStack.Push(5);
             customStack.Push(2);
-            Assert.AreEqual(2, customStack.Count);
+            Assert.AreEqual(2, customStack.Count,
+                "customStack.Count is not equal to 2 after pushing two elements");
         }
 
         [TestMethod]
         public void TestCountAfterPop()
         {
             customStack.Push(10);
-            Assert.AreEqual(1, customStack.Count);
+            Assert.AreEqual(1, customStack.Count,
+                "customStack.Count is not equal to 1 after pushing one element");
 
             customStack.Pop();
-            Assert.AreEqual(0, customStack.Count);
+            Assert.AreEqual(0, customStack.Count,
+            "customStack.Count is not equal to 0 after pushing one element and then pop it");
         }
 
         [TestMethod]
@@ -78,7 +81,8 @@ namespace CustomDataStruct.Tests.CustomStack.Tests
                 customStack.Push(i);
             }
 
-            Assert.AreEqual(10, customStack.Count);
+            Assert.AreEqual(10, customStack.Count,
+                "customStack.Count is not equal to 10 after pushing ten elements");
         }
 
         [TestMethod]
