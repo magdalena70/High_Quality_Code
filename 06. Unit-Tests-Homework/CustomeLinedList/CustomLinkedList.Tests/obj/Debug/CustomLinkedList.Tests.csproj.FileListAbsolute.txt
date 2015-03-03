@@ -1,0 +1,7 @@
+C:\Users\acer\Documents\GitHub\High_Quality_Code\06. Unit-Tests-Homework\CustomeLinedList\CustomLinkedList.Tests\bin\Debug\CustomLinkedList.Tests.dll
+C:\Users\acer\Documents\GitHub\High_Quality_Code\06. Unit-Tests-Homework\CustomeLinedList\CustomLinkedList.Tests\bin\Debug\CustomLinkedList.Tests.pdb
+C:\Users\acer\Documents\GitHub\High_Quality_Code\06. Unit-Tests-Homework\CustomeLinedList\CustomLinkedList.Tests\bin\Debug\CustomLinkedList.dll
+C:\Users\acer\Documents\GitHub\High_Quality_Code\06. Unit-Tests-Homework\CustomeLinedList\CustomLinkedList.Tests\bin\Debug\CustomLinkedList.pdb
+C:\Users\acer\Documents\GitHub\High_Quality_Code\06. Unit-Tests-Homework\CustomeLinedList\CustomLinkedList.Tests\obj\Debug\CustomLinkedList.Tests.csprojResolveAssemblyReference.cache
+C:\Users\acer\Documents\GitHub\High_Quality_Code\06. Unit-Tests-Homework\CustomeLinedList\CustomLinkedList.Tests\obj\Debug\CustomLinkedList.Tests.dll
+C:\Users\acer\Documents\GitHub\High_Quality_Code\06. Unit-Tests-Homework\CustomeLinedList\CustomLinkedList.Tests\obj\Debug\CustomLinkedList.Tests.pdb
