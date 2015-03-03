@@ -1,0 +1,7 @@
+C:\Users\acer\Documents\GitHub\CSharp-OOP\CustomDataStruct\CustomDataStruct.Tests\bin\Debug\CustomDataStruct.Tests.dll
+C:\Users\acer\Documents\GitHub\CSharp-OOP\CustomDataStruct\CustomDataStruct.Tests\bin\Debug\CustomDataStruct.Tests.pdb
+C:\Users\acer\Documents\GitHub\CSharp-OOP\CustomDataStruct\CustomDataStruct.Tests\bin\Debug\CustomDataStruct.exe
+C:\Users\acer\Documents\GitHub\CSharp-OOP\CustomDataStruct\CustomDataStruct.Tests\bin\Debug\CustomDataStruct.pdb
+C:\Users\acer\Documents\GitHub\CSharp-OOP\CustomDataStruct\CustomDataStruct.Tests\obj\Debug\CustomDataStruct.Tests.csprojResolveAssemblyReference.cache
+C:\Users\acer\Documents\GitHub\CSharp-OOP\CustomDataStruct\CustomDataStruct.Tests\obj\Debug\CustomDataStruct.Tests.dll
+C:\Users\acer\Documents\GitHub\CSharp-OOP\CustomDataStruct\CustomDataStruct.Tests\obj\Debug\CustomDataStruct.Tests.pdb

@@ -1,0 +1,6 @@
+C:\Users\acer\Documents\GitHub\CSharp-OOP\CustomDataStruct\CustomDataStruct\bin\Debug\CustomDataStruct.exe.config
+C:\Users\acer\Documents\GitHub\CSharp-OOP\CustomDataStruct\CustomDataStruct\bin\Debug\CustomDataStruct.exe
+C:\Users\acer\Documents\GitHub\CSharp-OOP\CustomDataStruct\CustomDataStruct\bin\Debug\CustomDataStruct.pdb
+C:\Users\acer\Documents\GitHub\CSharp-OOP\CustomDataStruct\CustomDataStruct\obj\Debug\CustomDataStruct.csprojResolveAssemblyReference.cache
+C:\Users\acer\Documents\GitHub\CSharp-OOP\CustomDataStruct\CustomDataStruct\obj\Debug\CustomDataStruct.exe
+C:\Users\acer\Documents\GitHub\CSharp-OOP\CustomDataStruct\CustomDataStruct\obj\Debug\CustomDataStruct.pdb
