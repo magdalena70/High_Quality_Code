@@ -21,7 +21,7 @@ public class Student
         {
             return this.firstName;
         }
-        set
+        private set
         {
             if (string.IsNullOrEmpty(value))
             {
@@ -38,7 +38,7 @@ public class Student
         {
             return this.lastName;
         }
-        set
+        private set
         {
             if (string.IsNullOrEmpty(value))
             {
@@ -55,13 +55,8 @@ public class Student
         {
             return this.exams;
         }
-        set
+        private set
         {
-            /*if (value == null)
-            {
-                throw new ArgumentNullException("Exams cannot be null.");
-            }*/
-
             this.exams = value;
         }
     }
